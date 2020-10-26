@@ -25,3 +25,9 @@ As an example, running the `ED-SimplE` model on wn18 will save the embeddings in
   
 `$ <Current Directory>/ED-SimplE_weights/wn18/`  
  
+# Datasets
+The following datasets are available in this software：
+* `FB15k`
+* `WN18`  
+
+If you want to run ED-SimplE on dataset FB15k-237 or WN18RR, please visit [ED-SimplE-torch](https://github.com/ZeyuMiao97/ED-SimplE-torch)
