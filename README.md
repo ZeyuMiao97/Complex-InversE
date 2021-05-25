@@ -31,4 +31,4 @@ The following datasets are available in this software：
 * `FB15k`
 * `WN18`  
 
-If you want to run Complex-InversE on dataset FB15k-237 or WN18RR, please visit [ED-SimplE-torch](https://github.com/ZeyuMiao97/ED-SimplE-torch)
+If you want to run Complex-InversE on dataset FB15k-237 or WN18RR, please visit [ED-SimplE-torch](https://github.com/ZeyuMiao97/Complex-InversE-torch)
